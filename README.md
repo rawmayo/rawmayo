@@ -8,5 +8,5 @@ So far did some minor projects in my local and some personal projects that I mig
 #### 💡 What I'm currently learning
 I decided to try the backend-development path so I'm getting my feet wet with Laravel right now. Started playing with API's and I also plan to learn JavaScript frameworks like React, Vue or Svelte. 
 
-#### ⏰ Time is ticking, Continue learning...
+#### ⏰ Clock is ticking, Continue learning...
 
