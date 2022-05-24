@@ -1,12 +1,12 @@
-# 👋 Hi there! I'm @rawmayo
+# 👋 Hi there! I'm Romeo Leones
 
-#### ⌨️ Why I code
-Although I studied Computer Engineering, I considered myself a self-taught developer. The school only taught us the bare minimum and though it's just the basics I enjoyed coding so I decided to choose this path. 
+#### ⌨️ Why coding?
+I started coding when I was in college. Made my first app using HTML, CSS, vanilla JavaScript, PHP and MySQL. It was nothing great but It made me interested on web development more so I learned the basic fundamentals of programming and the rest is history.
 
 So far did some minor projects in my local area and some personal projects that I might add to my portfolio someday. 
 
 #### 💡 What I'm currently learning
-I'm getting my feet wet with Laravel right now. Started playing with API's and I also plan to learn JavaScript frameworks like React, Vue or Svelte.
+Right now I'm trying to understand object-oriented programming and trying to be good at using PHP since it is the most used language in the web. By mastering one language, I won't be having a hard time learning the others. I might also want to give Svelte a go, It's more beginner friendly than React or Angular which has a higher learning curve.
 
 
  
