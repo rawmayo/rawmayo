@@ -6,7 +6,7 @@ I started coding when I was in college. Made my first web app using HTML, CSS, v
 #### 🧙‍♂️ More about me
 - :rocket: Currently working @ NESV 
 - :musical_note: Enjoys listening to music
-- :guitar: Average acoustic guitar player
+- :guitar: Average guitar player
 - :coffee: Addicted to coffee
 
 
