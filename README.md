@@ -1,9 +1,13 @@
-# 👋 Hi there! I'm Romeo Leones
+# 👋 Hi there! I'm Romeo
 
 #### ⌨️ Why coding?
-I started coding when I was in college. Made my first app using HTML, CSS, vanilla JavaScript, PHP and MySQL. It was nothing great but It made me interested on web development more so I learned the basic fundamentals of programming and the rest is history.
+I started coding when I was in college. Made my first web app using HTML, CSS, vanilla JavaScript, PHP and MySQL. It was nothing great but It made me interested on web development more so I chose this path and the rest is history.
 
-- Currently working @ NESV 
+#### 🧙‍♂️ More about me
+- :rocket: Currently working @ NESV 
+- :musical_note: Enjoys listening to music
+- :guitar: Average acoustic guitar player
+- :coffee: Addicted to coffee
 
 
  
